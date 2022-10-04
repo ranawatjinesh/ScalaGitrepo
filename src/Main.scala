@@ -1,5 +1,5 @@
 object Main extends App {
-//Welcoming people
+//Welcoming people to Scala world
     println("Hello world!")
 
 }
