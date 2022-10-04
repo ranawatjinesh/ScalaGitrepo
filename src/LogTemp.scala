@@ -1,0 +1,4 @@
+
+object LogTemp extends App {
+
+}
